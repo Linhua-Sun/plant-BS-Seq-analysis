@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in 0hai_Rawdata_1_bismark_bt2_pe.bam:	76198341
+Total number duplicated alignments removed:	16176225 (21.23%)
+Duplicated alignments were found at:	9593312 different position(s)
+
+Total count of deduplicated leftover sequences: 60022116 (78.77% of total)
+
